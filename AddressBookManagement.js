@@ -12,6 +12,7 @@ while (flag) {
     console.log("3. edit contacts in Address Book");
     console.log("4. delete contacts in Address Book");
     console.log("5. to exit");
+    console.log("");
     let option = parseInt(prompt("Enter your choice : "));
 
     switch (option) {
